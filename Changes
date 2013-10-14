@@ -2,5 +2,8 @@ Revision history for Perl extension Amon2-Plugin-Web-HTTPSession
 
 {{$NEXT}}
 
-    - original version
+5.04 2013-10-14T01:44:52Z
+
+    - Split distribution from Amon2 core.
+      (tokuhirom)
 
